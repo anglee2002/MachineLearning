@@ -28,7 +28,7 @@ def load_data(path):
 
 
 x_train, x_test, label_train, label_test = load_data(
-    '/Users/wallanceleon/Desktop/机器学习/机器学习实验/20201060287-李昂-实验三/ex3data1.csv')
+    '/Users/wallanceleon/Desktop/机器学习/机器学习实验/20201060287-李昂-实验三/数据集/ex3data1.csv')
 
 
 def SVM_linear_kernal(x_train, x_test, label_train, label_test):
